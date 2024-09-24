@@ -1,9 +1,0 @@
-nginx/
-nginx/conf/
-nginx/contrib/
-nginx/docs/
-nginx/html/
-nginx/logs/
-nginx/temp/
-
-nginx/nginx.exe
