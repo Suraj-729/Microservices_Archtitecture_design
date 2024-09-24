@@ -5,5 +5,5 @@ nginx/docs/
 nginx/html/
 nginx/logs/
 nginx/temp/
-#nginx/nginx.conf
+
 nginx/nginx.exe
